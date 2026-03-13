@@ -1,7 +1,7 @@
 # Alloy Materials Database Survey
 
 ## Introduction
-This repository is a Markdown transcription of the spreadsheet **"Screening of the Alloy Database 5c07ea15230f465693134ea0443f706d.csv"**. It consolidates alloy-related databases and datasets spanning experimental studies, literature-curated collections, and computational materials platforms.
+This repository consolidates alloy-related databases and datasets spanning experimental studies, literature-curated collections, and computational materials platforms.
 
 The survey contains **49 non-empty rows** from the source sheet, including **48 database entries** and **1 conclusion row**. Across the database entries, the most common source categories are **Experiment (18)**, **Literature (12)**, and **Calculation (9)**. Availability is dominated by **Direct Download, Free (33)** resources, with additional entries accessible through APIs, email requests, crawlers, or paid web portals.
 
@@ -10,6 +10,18 @@ From the spreadsheet content, three broad patterns stand out:
 1. Experimental alloy datasets are usually specialized and relatively small, often centered on a specific composition system and reporting microstructure, diffraction, microscopy, and mechanical-property measurements.
 2. Computational resources tend to emphasize thermodynamic, structural, electronic, and phase-stability data derived from DFT or related simulations, often at much larger scale.
 3. Large general-purpose materials platforms such as Materials Project, OQMD, AFLOW, NOMAD, and JARVIS provide the broadest coverage and are the strongest starting points for screening-oriented alloy informatics workflows.
+
+这个仓库整合了合金相关的数据库和数据集，涵盖实验研究、文献整理汇编以及计算材料学平台的数据。
+
+该调查表包含来源表格中的**49个非空行**，其中有**48条数据库条目**和**1条总结行**。在数据库条目中，最常见的来源类别为**实验（18个）**、**文献（12个）**和**计算（9个）**。数据获取方式以**直接下载、免费（33个）**为主，另有部分条目可通过应用程序接口、邮件申请、网络爬虫或付费门户网站获取。
+
+从电子表格内容来看，可归纳出三大规律：
+
+第一，实验合金数据集通常较为专业且规模相对较小，往往围绕特定成分体系展开，主要报告显微组织、衍射分析、显微观测以及力学性能测试等数据。
+
+第二，计算类资源侧重于热力学、结构、电子态以及相稳定性等方面的数据，这些数据多来自密度泛函理论或相关模拟计算，规模通常要大得多。
+
+第三，大型通用材料学平台如材料项目、OQMD、AFLOW、NOMAD和JARVIS等覆盖范围最广，是开展面向筛选的合金信息学工作流的最佳起点。
 
 ## Full Table
 
